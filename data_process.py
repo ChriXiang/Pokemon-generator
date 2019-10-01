@@ -8,7 +8,7 @@ import math
 from copy import deepcopy
 
 def resize_img():
-	src = "/Users/xiangtiange1/desktop/pokemon" 
+	src = "/Users/chris/desktop/pokemon" 
 	dst = "./128_poke"
 	#print(os.listdir(src))
 	for each in os.listdir(src):
